@@ -1,1 +1,2 @@
-include ':app',':compose'
+include ':app',':compose',':processor'
+

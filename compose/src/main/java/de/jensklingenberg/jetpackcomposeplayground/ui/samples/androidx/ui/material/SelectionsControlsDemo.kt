@@ -40,9 +40,9 @@ private val customColor3 = Color(0xFF607D8B.toInt())
 
 @Composable
 fun SelectionsControlsDemo() {
-    MaterialTheme {
+
         SelectionsControls()
-    }
+
 
 }
 

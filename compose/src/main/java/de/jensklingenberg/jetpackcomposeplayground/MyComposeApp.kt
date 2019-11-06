@@ -79,10 +79,7 @@ private fun AppContent(
                             )
                         }
                         else -> {
-                            MaterialTheme {
                                 mainPagesEntries[pageIndex.value].function.invoke()
-
-                            }
                         }
                     }
 
