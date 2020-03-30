@@ -29,6 +29,7 @@ import androidx.ui.material.studies.MaterialStudies
 import androidx.ui.text.demos.TextDemos
 import de.jensklingenberg.jetpackcomposeplayground.ui.HomeScreen
 import de.jensklingenberg.jetpackcomposeplayground.ui.MyHomeScreen
+import dev.playground.PlaygroundDemos
 
 
 /**
@@ -44,6 +45,7 @@ val AllDemosCategory = DemoCategory(
         MaterialDemos,
         TextDemos,
         MaterialStudies,
-        MyHomeScreen
+        MyHomeScreen,
+        PlaygroundDemos
     )
 )
